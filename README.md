@@ -1,2 +1,2 @@
-# EXCEL-VBA
-Rotinas diversas em VBA
+# Estudos
+Repositório destinado a materiais de Estudo
