@@ -2,7 +2,7 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-
+*.vb linguist-language=vba
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
